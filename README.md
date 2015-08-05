@@ -1,8 +1,10 @@
-# Casper
+# Tufte Ghost
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Tufte Ghost is a template for Ghost blogs using the ideas demonstrated by Edward Tufte's books and handouts, based on the default theme for [Ghost](http://github.com/tryghost/ghost/), [Casper](https://github.com/TryGhost/Casper).
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+Tufte’s style is known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography.
+
+This project is essentially adapted from [tufte-css](https://github.com/daveliepmann/tufte-css), which is itself and adaptation of Tufte-LaTeX, which is itself an implementation of the [Tufte Handout PDF](http://rmarkdown.rstudio.com/examples/tufte-handout.pdf).
 
 ## Copyright & License
 
